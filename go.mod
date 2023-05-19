@@ -1,4 +1,4 @@
-module github.com/WSbaikaishui/EasyLogger
+module github.com/WSbaikaishui/Logger
 
 go 1.14
 

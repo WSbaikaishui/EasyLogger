@@ -1,4 +1,4 @@
-package EasyLogger
+package Logger
 
 import (
 	"log"

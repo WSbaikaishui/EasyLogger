@@ -1,6 +1,6 @@
 // +build
 
-package EasyLogger
+package Logger
 
 import (
 	"os"

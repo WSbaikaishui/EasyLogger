@@ -1,4 +1,4 @@
-package EasyLogger
+package Logger
 
 import (
 	"github.com/stretchr/testify/assert"

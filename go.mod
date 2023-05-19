@@ -1,4 +1,4 @@
-module github.com/joeqian10/EasyLogger
+module github.com/WSbaikaishui/EasyLogger
 
 go 1.14
 
